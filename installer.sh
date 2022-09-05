@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-REPO="https://github.com/Samidaites2/ultro.git"
+REPO="https://github.com/Samidaites2/Ultroid.git"
 DIR="/root/Samidaites2"
 
 spinner(){
